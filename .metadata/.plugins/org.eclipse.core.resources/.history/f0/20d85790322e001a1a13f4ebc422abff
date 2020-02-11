@@ -1,0 +1,13 @@
+package chromeDriver;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class ChromeDriverEx {
+
+	public static void main(String[] args) {
+		System.getProperty("webdriver.chrome.driver","C:\\Users\\colruyt\\Desktop\\Livetech\\Selenium\\Driver File\\chromedriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+		driver.close();
+		}
+
+}

@@ -1,0 +1,27 @@
+package chromeDriver;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class ChromeDriverEx {
+	String url="http://Bing.com";
+	
+	
+	public static void main(String[] args) {
+		System.getProperty("Webdriver.chrome.driver","//Selenium//Driver File//chromedriver.exe");
+		ChromeDriver driver=new ChromeDriver();
+driver.navigate().to(url);
+String expected_BingHomePageTitle="bing";
+System.out.println("the Expected Home Page title is:" +expected_BingHomePageTitle);
+String actual_BingHomePageTitle=driver.getTitle();
+System.out.println("The actual home page Tile  is:" + actual_BingHomePageTitle  );
+if( actual_BingHomePageTitle.equals(expected_BingHomePageTitle))
+{
+	System.out.println("The Tile is matched");
+}
+else
+{
+	System.out.println("the is not matched");
+}
+	}
+
+}

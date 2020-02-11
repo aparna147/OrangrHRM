@@ -1,0 +1,7 @@
+<Suite name ="NewtoursAppalication">
+<test name ="Register">
+<classes>
+<class name = "newtoursApp.newTouesAppLogin"/>
+</classes>
+</test>
+</Suite>
