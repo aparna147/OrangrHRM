@@ -1,0 +1,28 @@
+
+2020-02-12 15:12:56,570 INFO  [Log] Firefox Browser Launched Successfully 
+2020-02-12 15:13:06,062 INFO  [Log] Successfully Launched OrangeHR Application 
+2020-02-12 15:13:06,335 INFO  [Log] Sucessfully Updated UserName 
+2020-02-12 15:13:06,529 INFO  [Log] Successfully Updated Password 
+2020-02-12 15:13:10,383 INFO  [Log] Successfully performed Click on LogIn Button 
+2020-02-12 15:13:10,387 INFO  [Log]  The Text of the UserName is : Admin 
+2020-02-12 15:13:10,475 INFO  [Log] The actual text is : Welcome Admin 
+2020-02-12 15:13:10,475 INFO  [Log] LogIN Successfull- PASS 
+2020-02-12 15:13:10,483 INFO  [Log] OrangeHRM Application closed successfully  
+2020-02-12 15:46:11,689 INFO  [Log] Firefox Browser Launched Successfully 
+2020-02-12 15:46:17,534 INFO  [Log] Successfully Launched OrangeHR Application 
+2020-02-12 15:46:17,798 INFO  [Log] Sucessfully Updated UserName 
+2020-02-12 15:46:18,042 INFO  [Log] Successfully Updated Password 
+2020-02-12 15:46:21,723 INFO  [Log] Successfully performed Click on LogIn Button 
+2020-02-12 15:46:21,727 INFO  [Log]  The Text of the UserName is : Admin 
+2020-02-12 15:46:21,787 INFO  [Log] The actual text is : Welcome Admin 
+2020-02-12 15:46:21,787 INFO  [Log] LogIN Successfull- PASS 
+2020-02-12 15:46:21,791 INFO  [Log] OrangeHRM Application closed successfully  
+2020-02-13 11:26:19,995 INFO  [Log] Firefox Browser Launched Successfully 
+2020-02-13 11:26:28,117 INFO  [Log] Successfully Launched OrangeHR Application 
+2020-02-13 11:26:28,656 INFO  [Log] Sucessfully Updated UserName 
+2020-02-13 11:26:28,849 INFO  [Log] Successfully Updated Password 
+2020-02-13 11:26:34,146 INFO  [Log] Successfully performed Click on LogIn Button 
+2020-02-13 11:26:34,146 INFO  [Log]  The Text of the UserName is : Admin 
+2020-02-13 11:26:37,923 INFO  [Log] The actual text is : Welcome Admin 
+2020-02-13 11:26:37,923 INFO  [Log] LogIN Successfull- PASS 
+2020-02-13 11:26:37,928 INFO  [Log] OrangeHRM Application closed successfully  

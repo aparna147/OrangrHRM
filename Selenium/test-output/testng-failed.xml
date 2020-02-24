@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.OHRMA.OrangeHRM_Login">
+      <class name="com.Newtourslog4j.Newtourslog4j">
         <methods>
           <include name="Setup"/>
-          <include name="loginTest"/>
+          <include name="Launch"/>
+          <include name="signon"/>
         </methods>
-      </class> <!-- com.OHRMA.OrangeHRM_Login -->
+      </class> <!-- com.Newtourslog4j.Newtourslog4j -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

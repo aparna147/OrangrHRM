@@ -1,0 +1,43 @@
+2020-02-13 13:12:13,651 INFO  [Log] successfully click 
+2020-02-13 13:12:13,957 INFO  [Log] successfully username 
+2020-02-13 13:12:14,073 INFO  [Log] successfully password 
+2020-02-13 13:13:44,409 INFO  [Log] successfully lunched to nextpage 
+2020-02-13 13:45:33,729 INFO  [Log] successfully click 
+2020-02-13 13:45:33,917 INFO  [Log] successfully username 
+2020-02-13 13:45:34,065 INFO  [Log] successfully password 
+2020-02-13 13:48:07,290 INFO  [Log] successfully lunched to nextpage 
+2020-02-13 13:48:07,338 INFO  [Log] the number of links is:12 
+2020-02-13 13:48:07,354 INFO  [Log] get the textHome 
+2020-02-13 13:48:07,385 INFO  [Log] get the textFlights 
+2020-02-13 13:48:07,401 INFO  [Log] get the textHotels 
+2020-02-13 13:48:07,416 INFO  [Log] get the textCar Rentals 
+2020-02-13 13:48:07,448 INFO  [Log] get the textCruises 
+2020-02-13 13:48:07,463 INFO  [Log] get the textDestinations 
+2020-02-13 13:48:07,495 INFO  [Log] get the textVacations 
+2020-02-13 13:48:07,510 INFO  [Log] get the textSIGN-OFF 
+2020-02-13 13:48:07,534 INFO  [Log] get the textITINERARY 
+2020-02-13 13:48:07,554 INFO  [Log] get the textPROFILE 
+2020-02-13 13:48:07,582 INFO  [Log] get the textSUPPORT 
+2020-02-13 13:48:07,606 INFO  [Log] get the textCONTACT 
+2020-02-13 13:49:30,298 INFO  [Log] successfully click 
+2020-02-13 13:49:30,453 INFO  [Log] successfully username 
+2020-02-13 13:49:30,577 INFO  [Log] successfully password 
+2020-02-13 13:51:41,254 INFO  [Log] successfully lunched to nextpage 
+2020-02-13 13:51:41,290 INFO  [Log] the number of links is:5 
+2020-02-13 13:51:41,315 INFO  [Log] get the text 
+2020-02-13 13:51:41,335 INFO  [Log] get the text 
+2020-02-13 13:51:41,367 INFO  [Log] get the text 
+2020-02-13 13:51:41,386 INFO  [Log] get the text 
+2020-02-13 13:51:41,406 INFO  [Log] get the text 
+2020-02-13 13:54:14,395 INFO  [Log] successfully click 
+2020-02-13 13:54:14,583 INFO  [Log] successfully username 
+2020-02-13 13:54:14,767 INFO  [Log] successfully password 
+2020-02-13 13:56:51,200 INFO  [Log] successfully lunched to nextpage 
+2020-02-13 13:56:51,376 INFO  [Log] the number of links is:7 
+2020-02-13 13:56:51,448 INFO  [Log] 0  
+2020-02-13 13:56:51,508 INFO  [Log] 1 Checking the proxy and the firewall 
+2020-02-13 13:56:51,552 INFO  [Log] 2 Running Windows Network Diagnostics 
+2020-02-13 13:56:51,600 INFO  [Log] 3  
+2020-02-13 13:56:51,668 INFO  [Log] 4  
+2020-02-13 13:56:51,699 INFO  [Log] 5  
+2020-02-13 13:56:51,730 INFO  [Log] 6  

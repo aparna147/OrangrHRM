@@ -18,7 +18,12 @@ public class OrangeHRM_Login {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\colruyt\\Desktop\\Livetech\\Selenium\\Driver File\\chromedriver.exe");
 
 	    ChromeDriver driver = new ChromeDriver();
-	
+	    
+	    //<button id="details-button" class="secondary-button small-link">
+        
+	    WebElement advance = driver.findElement(By.id("details-button"));
+	    
+	    advance.click();
 
 		driver.navigate().to(url);
 		Thread.sleep(2000);
